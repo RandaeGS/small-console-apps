@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A9te5q6oKbuev2TpdHfhXsjFA9SIs4i41EAbd5LQZX6fqPOive7mUNaOfTVPkDJk2UvGwzW1sckMDA4ZVggWmg==",
+  "success": true,
+  "projectFilePath": "/home/randaegs/git/small-console-apps/csharp/rock-paper-scissors/rock-paper-scissors.csproj",
+  "expectedPackageFiles": [
+    "/home/randaegs/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
