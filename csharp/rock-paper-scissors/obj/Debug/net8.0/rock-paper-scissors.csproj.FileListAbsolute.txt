@@ -1,0 +1,15 @@
+/home/randaegs/git/small-console-apps/csharp/rock-paper-scissors/bin/Debug/net8.0/rock-paper-scissors
+/home/randaegs/git/small-console-apps/csharp/rock-paper-scissors/bin/Debug/net8.0/rock-paper-scissors.deps.json
+/home/randaegs/git/small-console-apps/csharp/rock-paper-scissors/bin/Debug/net8.0/rock-paper-scissors.runtimeconfig.json
+/home/randaegs/git/small-console-apps/csharp/rock-paper-scissors/bin/Debug/net8.0/rock-paper-scissors.dll
+/home/randaegs/git/small-console-apps/csharp/rock-paper-scissors/bin/Debug/net8.0/rock-paper-scissors.pdb
+/home/randaegs/git/small-console-apps/csharp/rock-paper-scissors/obj/Debug/net8.0/rock-paper-scissors.GeneratedMSBuildEditorConfig.editorconfig
+/home/randaegs/git/small-console-apps/csharp/rock-paper-scissors/obj/Debug/net8.0/rock-paper-scissors.AssemblyInfoInputs.cache
+/home/randaegs/git/small-console-apps/csharp/rock-paper-scissors/obj/Debug/net8.0/rock-paper-scissors.AssemblyInfo.cs
+/home/randaegs/git/small-console-apps/csharp/rock-paper-scissors/obj/Debug/net8.0/rock-paper-scissors.csproj.CoreCompileInputs.cache
+/home/randaegs/git/small-console-apps/csharp/rock-paper-scissors/obj/Debug/net8.0/rock-paper-scissors.sourcelink.json
+/home/randaegs/git/small-console-apps/csharp/rock-paper-scissors/obj/Debug/net8.0/rock-paper-scissors.dll
+/home/randaegs/git/small-console-apps/csharp/rock-paper-scissors/obj/Debug/net8.0/refint/rock-paper-scissors.dll
+/home/randaegs/git/small-console-apps/csharp/rock-paper-scissors/obj/Debug/net8.0/rock-paper-scissors.pdb
+/home/randaegs/git/small-console-apps/csharp/rock-paper-scissors/obj/Debug/net8.0/rock-paper-scissors.genruntimeconfig.cache
+/home/randaegs/git/small-console-apps/csharp/rock-paper-scissors/obj/Debug/net8.0/ref/rock-paper-scissors.dll
