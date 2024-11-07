@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "1JB41vCv4AboX+6ByCM/NYSZAuGB+gZU154B6tDHGNxobD0170/2hQ49xEMVQZEc8opAf4oUwYlmweLlgdOQUg==",
+  "dgSpecHash": "5wpnIoo5edkaA5XiXp868z8kCd9vkUdmOMYB5mqiB9LQ/aO7qQ15nXKanoMkZbRajha5pB1x/c0AdYWob2qu+g==",
   "success": true,
   "projectFilePath": "/home/randaegs/git/small-console-apps/csharp/student-crud/student-crud.csproj",
   "expectedPackageFiles": [
-    "/home/randaegs/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+    "/home/randaegs/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
   ],
   "logs": []
 }

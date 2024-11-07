@@ -1,0 +1,15 @@
+/home/randaegs/git/small-console-apps/csharp/student-crud/bin/Debug/net8.0/student-crud
+/home/randaegs/git/small-console-apps/csharp/student-crud/bin/Debug/net8.0/student-crud.deps.json
+/home/randaegs/git/small-console-apps/csharp/student-crud/bin/Debug/net8.0/student-crud.runtimeconfig.json
+/home/randaegs/git/small-console-apps/csharp/student-crud/bin/Debug/net8.0/student-crud.dll
+/home/randaegs/git/small-console-apps/csharp/student-crud/bin/Debug/net8.0/student-crud.pdb
+/home/randaegs/git/small-console-apps/csharp/student-crud/obj/Debug/net8.0/student-crud.GeneratedMSBuildEditorConfig.editorconfig
+/home/randaegs/git/small-console-apps/csharp/student-crud/obj/Debug/net8.0/student-crud.AssemblyInfoInputs.cache
+/home/randaegs/git/small-console-apps/csharp/student-crud/obj/Debug/net8.0/student-crud.AssemblyInfo.cs
+/home/randaegs/git/small-console-apps/csharp/student-crud/obj/Debug/net8.0/student-crud.csproj.CoreCompileInputs.cache
+/home/randaegs/git/small-console-apps/csharp/student-crud/obj/Debug/net8.0/student-crud.sourcelink.json
+/home/randaegs/git/small-console-apps/csharp/student-crud/obj/Debug/net8.0/student-crud.dll
+/home/randaegs/git/small-console-apps/csharp/student-crud/obj/Debug/net8.0/refint/student-crud.dll
+/home/randaegs/git/small-console-apps/csharp/student-crud/obj/Debug/net8.0/student-crud.pdb
+/home/randaegs/git/small-console-apps/csharp/student-crud/obj/Debug/net8.0/student-crud.genruntimeconfig.cache
+/home/randaegs/git/small-console-apps/csharp/student-crud/obj/Debug/net8.0/ref/student-crud.dll
